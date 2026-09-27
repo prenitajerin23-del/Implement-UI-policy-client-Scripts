@@ -5,7 +5,7 @@
 A walkthrough of the ServiceNow Incident management client-side configurations—demonstrating the active UI Policy, `onChange`, `onSubmit`, and `onCellEdit` Client Scripts—is available at the link below:
 
 * 🔗 **Demo Video Link
-* (https://drive.google.com/file/d/1Bn0LyX-8WKoXpFVWo6S7SL_j5_OFZDHV/view?usp=sharing)
+** 🎥 **[Watch Project Demo Video] (https://drive.google.com/file/d/1Bn0LyX-8WKoXpFVWo6S7SL_j5_OFZDHV/view?usp=sharing)
 
 
 ---
