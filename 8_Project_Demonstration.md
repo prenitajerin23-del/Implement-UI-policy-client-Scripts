@@ -9,8 +9,7 @@ A walkthrough of the ServiceNow Incident management client-side configurationsâ€
 Click the link below to watch the full ServiceNow configuration and testing demonstration:
 
 * ðŸŽ¥ **[Watch Project Demo Video]
-((https://drive.google.com/file/d/1Bn0LyX-8WKoXpFVWo6S7SL_j5_OFZDHV/view?usp=sharing)
-)**
+(https://drive.google.com/file/d/1Bn0LyX-8WKoXpFVWo6S7SL_j5_OFZDHV/view?usp=sharing)
 
 
 
